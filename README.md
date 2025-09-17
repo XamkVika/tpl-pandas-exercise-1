@@ -37,7 +37,7 @@ See detailed tasks inside the file.
 
 4. To test and run your code, just run the `main.py`. Make sure that you have the correct Pytohn environment in use. Note: The program will not run before you have fixed it!
 
-5. In this project and GitHub classroom we are using also tests. You can run the tests in the cmd in the project root with:
+5. In this project and GitHub Classroom assignment we are using also tests. You can run the tests in the cmd in the project root with:
 `python -m pytest`
 
 6. Commit and push your changes to this repository.
