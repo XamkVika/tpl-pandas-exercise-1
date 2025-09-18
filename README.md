@@ -18,7 +18,7 @@ books_project/
 1. Clone this repository.
 2. Create and activate a virtual environment and install requirements
 
-in [Visual Studio Code](https://code.visualstudio.com/docs/python/environments#_creating-environments), select the requirements.txt file when promted for dependecies
+in [Visual Studio Code](https://code.visualstudio.com/docs/python/environments#_creating-environments), select the requirements.txt file when prompted for dependecies
 
 OR
 
