@@ -9,7 +9,7 @@ def load_data(filepath):
     ✅ To pass: Return a DataFrame with exactly 71 rows.
     
     📌 What to return:
-    - A pandas DataFrame created using pd.read_csv(filepath)
+    - A pandas DataFrame created using read_csv()
     """
     # TODO: Load the CSV file
     return None # Should return DataFrame instead of None
@@ -77,6 +77,7 @@ if __name__ == "__main__":
     print(df.head())
 
     # Uncomment these lines as you implement each function:
+    
     #print("\n--- Task 2 ---\n")
     #print(get_unique_genres(df))
 
