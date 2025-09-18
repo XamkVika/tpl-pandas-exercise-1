@@ -20,7 +20,7 @@ def test_load_data(df):
 
 def test_unique_genres(df):
     genres = get_unique_genres(df)
-    assert isinstance(genres, (list, pd.Series, np.ndarray))
+    assert isinstance(genres, (list, pd.Series))
     assert "Fiction" in genres
     assert "Classic" in genres
 
